@@ -1,0 +1,26 @@
+baseURL = 'https://1stsyte.com/'
+languageCode = 'en-us'
+title = '1stsyte - My First Website!'
+theme = "ananke"
+
+[params]
+  description = "Welcome to my first website! I'm learning to build websites with Hugo."
+  author = "1stsyte"
+  github = "nixomose"
+  
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About Me"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "blog"
+    name = "My Blog"
+    url = "/blog/"
+    weight = 3
