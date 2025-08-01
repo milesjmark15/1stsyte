@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="blog-list">
+    <h1>My Blog</h1>
+    <div class="content">
+        {{ range .Pages }}
+        <article class="blog-post">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <p class="date">{{ .Date.Format "January 2, 2006" }}</p>
+            <p>{{ .Summary }}</p>
+        </article>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
