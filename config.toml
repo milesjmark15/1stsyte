@@ -1,7 +1,6 @@
 baseURL = 'https://1stsyte.com/'
 languageCode = 'en-us'
 title = '1stsyte - My First Website!'
-theme = "ananke"
 
 [params]
   description = "Welcome to my first website! I'm learning to build websites with Hugo."
