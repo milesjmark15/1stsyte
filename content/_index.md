@@ -31,4 +31,8 @@ Hi there! Welcome to my very first website! I'm learning how to build websites u
 - I'm excited to become a web developer
 - This is my first real project!
 
+## Test Update
+
+This is a test to see if Netlify is building from the right repository! 🚀
+
 Stay tuned for more updates as I learn and grow! 🚀 
