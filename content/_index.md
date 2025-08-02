@@ -4,7 +4,7 @@ date: 2024-01-01
 draft: false
 ---
 
-# Welcome to 1stsyte! 🎉
+# Welcome to 1stsyte! Terminus IV  🎉
 
 Hi there! Welcome to my very first website! I'm learning how to build websites using Hugo, and this is my first attempt.
 
