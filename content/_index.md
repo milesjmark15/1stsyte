@@ -1,10 +1,10 @@
 ---
 title: "Welcome to My First Website!"
-date: 2024-01-01
+date: 2026-07-14
 draft: false
 ---
 
-# Welcome to 1stsyte! Terminus IV  🎉
+# Welcome to 1stsyte! Terminus II  🎉
 
 Hi there! Welcome to my very first website! I'm learning how to build websites using Hugo, and this is my first attempt.
 
@@ -26,7 +26,7 @@ Hi there! Welcome to my very first website! I'm learning how to build websites u
 
 ## Fun Facts About Me
 
-- I'm 10 years old
+- I'm 11 years old
 - I love learning new things
 - I'm excited to become a web developer
 - This is my first real project!
