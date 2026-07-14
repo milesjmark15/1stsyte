@@ -1,12 +1,12 @@
 ---
-title: "About Me"
-date: 2025-08-09
+title: "About the creator"
+date: 2026-07-14
 draft: false
 ---
 
 # About Me 👋
 
-Hi! I'm a 10-year-old who's super excited about learning web development! This is my first website, and I'm learning so much along the way.
+Hi! I'm an 11-year-old named Aries Hugel who's super excited about learning web development! This is my first website, and I'm learning so much along the way.
 
 ## What I Love
 
@@ -17,7 +17,7 @@ Hi! I'm a 10-year-old who's super excited about learning web development! This i
 
 ## My Learning Journey
 
-I started this project because I wanted to learn how websites work. My dad helped me set up:
+I started this project because I wanted to learn how websites work, and to help me mature as a person. My dad helped me set up:
 - A GitHub repository to store my code
 - Hugo to build the website
 - Netlify to make it live on the internet
