@@ -1,4 +1,3 @@
-
 ---
 title: "My Second Blog Post - Learning Hugo!"
 date: 2026-07-14
