@@ -7,7 +7,7 @@ tags: ["learning", "hugo", "first-post"]
 
 # My First Blog Post! 🎉
 
-Hey everyone! This is my very first blog post on my very first website! I'm so excited to share what I'm learning.
+Hey everyone! This is my very first blog post on my very first website! I'm so excited to share what I'm learning!
 
 ## What I Learned Today
 
