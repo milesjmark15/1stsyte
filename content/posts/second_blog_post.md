@@ -1,6 +1,6 @@
 ---
 title: "My Second Blog Post - Learning Hugo!"
-date: 2026-07-14
+date: 2026-07-13
 draft: false
 tags: ["learning", "hugo", "first-post"]
 ---
